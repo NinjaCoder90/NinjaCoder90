@@ -1,3 +1,7 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NinjaCoder90)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 - 👋 Hi, I’m @NinjaCoder90
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
